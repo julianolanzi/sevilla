@@ -6,27 +6,38 @@
     margin-left: 30%;
     display: flex;
     align-items: center;
-    flex-direction: column
+    flex-direction: column;
 }
 
 .logo {
     width: 100px;
     height: 100px;
     margin-top: 50px;
+    border-radius: 50px;
 }
 
 .container-buttons {
     width: 80%;
     min-height: 300px;
     height: auto;
-    background-color: blue;
+    background-color: rgba(204, 185, 185, 0);
     display: flex;
     align-items: center;
-    flex-direction: column
+    flex-direction: column;
 }
+
 button {
     width: 80%;
     height: 50px;
     background-color: #F6B438;
+    color: white;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border-color: #F6B438;
+    border-bottom: #F6B438;
+}
 
+button:hover {
+    background-color: #cfa14b;
+    box-shadow: 0px 0px 10px;
 }

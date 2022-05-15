@@ -1,13 +1,15 @@
-.footer { 
+.footer {
     width: 99%;
     height: 20px;
-    background-color: #16212E;
+    background-color: #323A44;
     bottom: 5;
     position: absolute;
     text-align: center;
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 0px;
 }
+
 p {
-    background-color: #16212E;
+    background-color: rgba(158, 152, 152, 0);
+    color: white;
 }
