@@ -1,5 +1,5 @@
 .footer {
-    width: 99%;
+    width: 38%;
     height: 20px;
     background-color: #323A44;
     bottom: 5;
@@ -7,6 +7,7 @@
     text-align: center;
     padding: 10px;
     margin-top: 0px;
+    margin: 0px 30%;
 }
 
 p {
